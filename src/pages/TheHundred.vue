@@ -105,15 +105,15 @@
             </tr>
           </thead>
           <tr>
-            <td>100 PCS</td>
-            <td width="25%" class="right">2,530.00 KG</td>
+            <td>940 PCS</td>
+            <td width="25%" class="right">23738,32 KG</td>
           </tr>
           <tr>
             <td>GIDA KATKI MAD. SAPP 28</td>
             <td></td>
           </tr>
           <tr>
-            <td>INVOİCE GIB2021000000275-02.12.2021</td>
+            <td>INVOİCE GIB2021000000275-276-277-02.12.2021</td>
             <td></td>
           </tr>
           <tr>
